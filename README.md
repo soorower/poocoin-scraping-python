@@ -1,6 +1,6 @@
 # poocoin-scraping-python
 
-#### First check which chrome version are you using.
+#### First check which chrome version are you using. GO to settings>about chrome>check version. Mine  is 91.0.4472.77
 #### Download chromedriver for that version.
 #### Keep the chromedriver in the same directory of this python file.
 ####             
